@@ -1,0 +1,5 @@
+.apps/
+.shada/
+.luarc.json
+lazy-lock.json
+
